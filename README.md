@@ -1,7 +1,7 @@
 #  Design of Voltage-Controlled Oscillator (VCO) using Cadence  
 
 ##  Overview  
-This repository contains the **design, simulation, and analysis** of a **Voltage-Controlled Oscillator (VCO)** using **Cadence Virtuoso**. The project explores **circuit topology, and performance evaluation** of VCOs for applications in **frequency synthesis, PLL circuits, FM modulation, and signal generation**.  
+This repository contains the **design, simulation, and analysis** of a **Voltage-Controlled Oscillator (VCO)** using **Cadence Virtuoso**. The project explores **circuit topology and performance evaluation** of VCOs for applications in **frequency synthesis, PLL circuits, FM modulation, and signal generation**.  
 
 A **VCO** is an electronic oscillator whose **output frequency** is regulated by an **input voltage**, making it essential for **communication systems, signal processing, and control systems**.  
 
